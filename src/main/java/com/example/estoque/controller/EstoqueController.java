@@ -46,7 +46,4 @@ public class EstoqueController {
         return ResponseEntity.ok().body("Estoque Atualizado");
     }
 
-
-
-
 }
